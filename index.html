@@ -62,8 +62,26 @@
 					
 				<br/>						
 					
+				To download and test the application, send an email to longasearch@gmail.com,
+				download and unzip longa.zip with the recieved pw, and proceed as described below.
 				By using the application you comply with the desclaimer below. 
-				To download and test the application, send an email to longasearch@gmail.com.
+					
+				<br/>	
+				Create a new folder in your Windows computer 
+				will be a working directory for the application. 
+				Let path_app the paath to tne folder, 
+				Unziping longa.zip to the folder creates longa.exe application. 
+				The application uses a Twitter model (https://nlp.stanford.edu/projects/glove/) 
+				the model is downloaded to working directory automatically
+				(following https://radimrehurek.com/gensim/downloader.html)	
+				at the first run of longa.exe. 
+				At this run there is created a new folder containing 
+				the donloaded nlp model (will take a few minutes), 
+				and information.json file (not used). 
+				Also, if you have the GENSIM_DATA_DIR environment variable, 
+				the application may redefine it to the path_app. 
+				At running tne app, a file seData.npy is created in the working directory. 
+				This is the deep profile, and stored at yor computer.					
 					
 					
 
