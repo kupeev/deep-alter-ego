@@ -86,7 +86,7 @@
     		
         	    	[github.com/kupeev](https://github.com/kupeev/deep-alter-ego)  
 			--&gt;
-			- [LongaSearch app ](https://github.com/kupeev/deep-alter-ego/releases/download/v1.0/longa.zip)			
+			- [LongaSearch app ](https://github.com/kupeev/deep-alter-ego/releases/download/v3.0/longa.zip)			
 			- [ Disclaimer ](https://github.com/kupeev/deep-alter-ego/blob/master/disclaimer.md)
 			
 		</footer>
