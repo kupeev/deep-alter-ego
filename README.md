@@ -27,8 +27,8 @@
 					
 				  
 &#10;				  
-						
-					
+						 
+					  
 				The user may sometimes want to perform a personalized search, 
 				and sometimes not, if he wants to search “from scatch”, 
 				without being assiciated to previous searches, similarly to as Duck Duck Go does.
@@ -82,7 +82,7 @@
 
     		</div>
 		</div>
-		<footer>
+		<footer>    
     		
         	    	[github.com/kupeev](https://github.com/kupeev/deep-alter-ego)  
 			--&gt;
