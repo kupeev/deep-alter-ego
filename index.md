@@ -58,7 +58,7 @@ the application mayredefine it to the path_app.
 At running tne app, a file [seData.npy] is created in the working dir. 
 This is your deep profile stored at your computer.	
 
-### [LongaSearch app](https://github.com/kupeev/deep-alter-ego/releases/download/v3.0/longa.zip)
+### [LongaSearch app](https://github.com/kupeev/deep-alter-ego/releases/download/v3.2/longa3.2.zip)
 ### [Disclaimer](https://github.com/kupeev/deep-alter-ego/blob/master/disclaimer.md)
 
 
